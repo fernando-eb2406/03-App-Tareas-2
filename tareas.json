@@ -1,0 +1,42 @@
+[
+   {
+      "titulo": "Tarea 1",
+      "estado": "terminada"
+   },
+   {
+      "titulo": "Tarea 2",
+      "estado": "en proceso"
+   },
+   {
+      "titulo": "Tarea A",
+      "estado": "terminada"
+   },
+   {
+      "titulo": "Tarea 3",
+      "estado": "pendiente"
+   },
+   {
+      "titulo": "Tarea B",
+      "estado": "en proceso"
+   },
+   {
+      "titulo": "Tarea C",
+      "estado": "pendiente"
+   },
+   {
+      "titulo": "Tarea 4",
+      "estado": "en proceso"
+   },
+   {
+      "titulo": "Tarea D",
+      "estado": "pendiente"
+   },
+   {
+      "titulo": "Tarea E",
+      "estado": "pendiente"
+   },
+   {
+      "titulo": "Tarea 5",
+      "estado": "pendiente"
+   }
+]
